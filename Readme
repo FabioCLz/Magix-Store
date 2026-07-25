@@ -1,0 +1,4 @@
+la key de la api de google maps esta aca
+<script async defer
+src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDxMcpGysyt0iSe4pg8PUdakLrbuff9pV4&callback=initMap">
+</script>
